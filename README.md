@@ -1,4 +1,4 @@
-<h1 align="center">AI Robotics - CSCE 636 - Texas A&M University, College Station</h1>
+<h1 align="center">AI Robotics - CSCE 635 - Texas A&M University, College Station</h1>
 
 
 <h2 align="center">Programming Lab1 Demonstration</h2>
